@@ -14,27 +14,23 @@
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
-            "value": ""
+            "value": "2103300889:AAGgaSMbIrOtdUdWXFirWuNBRcxAqbty2xg"
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "37775aca7d11f450ecde375baac17fe7"
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org or @UseTGXBot",
-            "value": ""
-        },
-        "TG_USER_SESSION": {
-            "description": "A pyrogram user session string. Generate from https://repl.it/@prgofficial/String-Gen",
-            "value": ""
-        },
+            "value": "10651048"
+        }, 
         "AUTH_USERS": {
             "description": "ID of users that can use the bot commands",
-            "value": ""
+            "value": "1323557247"
         },
         "DATABASE_URI": {
             "description": "Database URL from https://cloud.mongodb.com/",
-            "value": ""
+            "value": "mongodb+srv://Aadhi:42426840@cluster0.h9rky.mongodb.net/?retryWrites=true&w=majority"
         },
         "DATABASE_NAME": {
             "description": "Your database name from mongoDB. ( Default will 'Cluster0' )",
@@ -46,11 +42,11 @@
         },
         "VID_SEARCH": {
             "description": "Should bot search for video files in channels ( Give 'yes' or 'no' )",
-            "value": "no"
+            "value": "yes"
         },
         "MUSIC_SEARCH": {
             "description": "Should bot search for music files in channels ( Give 'yes' or 'no' )",
-            "value": "no"
+            "value": "yes"
         }
     },
     "buildpacks": [
