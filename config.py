@@ -37,7 +37,6 @@ MUSIC_SEARCH = os.environ.get("MUSIC_SEARCH", "no").lower()
 
 
 
-TG_BOT_SESSION = os.environ.get("TG_BOT_SESSION", "bot")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 LOG_FILE_NAME = "filterbot.txt"
 
